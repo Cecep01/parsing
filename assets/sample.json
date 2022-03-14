@@ -1,0 +1,43 @@
+{
+    "name" : "cecep superi",
+    "age" : 30,
+    "gender" : "laki-laki",
+    "hobi" : [
+        "coding",
+        "maen game",
+        "menulis"
+    ],
+    "github" : {
+        "username" :"cecep",
+        "repository" : 100
+    },
+    "articles" : [
+        {
+            "id" : 1,
+            "title" : "Flutter: introduction",
+            "subtitle" : "beatiful sama dengan cantik"
+        },
+        {
+            "id" : 2,
+            "title" : "Flutter: introduction",
+            "subtitle" : "beatiful sama dengan cantik"
+        },
+        {
+            "id" : 3,
+            "title" : "Flutter: introduction",
+            "subtitle" : "beatiful sama dengan cantik"
+        }
+    ],
+
+    "contact": {
+        "1" : {
+            "name" : "personal",
+            "phone" : 623456893
+        },
+        "2" : {
+            "name" : "personal",
+            "phone" : 623456893
+        }
+        
+    }
+}

@@ -84,7 +84,10 @@ class Article {
 class Contact {
   String name;
   String phone;
-  Contact({required this.name, required this.phone});
+  Contact({
+    required this.name, 
+    required this.phone
+    });
 
   @override
   String toString() {

@@ -32,11 +32,11 @@
     "contact": {
         "1" : {
             "name" : "personal",
-            "phone" : 623456893
+            "phone" : "623456893"
         },
         "2" : {
             "name" : "personal",
-            "phone" : 623456893
+            "phone" : "623456894"
         }
         
     }

@@ -72,7 +72,7 @@ class Article {
   });
   @override
   String toString() {
-    return 'Article{id: $id , title: $title , subtitle: $subtitle}';
+    return 'Articleid: {$id , title: $title , subtitle: $subtitle}';
   }
 
   factory Article.fromJson(Map<String, dynamic> json) {
@@ -84,10 +84,7 @@ class Article {
 class Contact {
   String name;
   String phone;
-  Contact({
-    required this.name, 
-    required this.phone
-    });
+  Contact({required this.name, required this.phone});
 
   @override
   String toString() {
